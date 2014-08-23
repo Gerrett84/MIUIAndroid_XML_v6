@@ -9,7 +9,7 @@
         <item>Blau</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Standart Startseite</item>
+        <item>Standartseite</item>
         <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="pref_homepage_values">
