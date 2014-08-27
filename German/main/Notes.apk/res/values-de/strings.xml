@@ -89,13 +89,14 @@
   <string name="sns_title_edit">Titel bearbeiten</string>
   <string name="sns_title_send">Sende Nachricht</string>
   <string name="sns_toast_empty">"Leerer Post kann nicht gesendet werden"</string>
-  <string name="sns_toast_over_limit">Statt Text Limit als Foto senden</string>
+  <string name="sns_toast_over_limit">Sent as image (over text limit)</string>
   <string name="toast_folder_privacy_mode">"Ordner können nicht bearbeitet werden im Gastmodus"</string>
   <string name="toast_message_add_image_fail">"Bild konnte nicht hinzugefügt werden"</string>
   <string name="toast_reach_text_limit_attachment">"Es können keine Anhänge hinzufügt werden, da die Notiz zu lang ist"</string>
   <string name="toast_reach_text_limit_truncate">Diese Notiz ist zu lang. Einige Texte wurde gekürzt um es passend zu machen.</string>
   <string name="undo">Rückgängig</string>
   <string name="unknown_source">unbekannte Quelle</string>
+  <string name="widget_content_loading">Loading…</string>
   <string name="widget_havenot_content">Kein zugehörige Notiz gefunden. Berühren um eine zugeordnete Notiz zu erstellen. Um die Größe zu ändern, halten Sie &amp; ziehen Sie eine Kante.</string>
   <string name="widget_under_visit_mode">"Notizen werden im Gastmodus nicht angezeigt"</string>
 </resources>

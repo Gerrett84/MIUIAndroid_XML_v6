@@ -10,7 +10,7 @@
   <string name="accessibility_datetime_picker_time">Zeit</string>
   <string name="accessibility_time_picker_ampm">AM/PM</string>
   <string name="accessibility_time_picker_hour">Stunden</string>
-  <string name="accessibility_time_picker_milli">Milli sekunden</string>
+  <string name="accessibility_time_picker_milli">Millisekunden</string>
   <string name="accessibility_time_picker_minute">Minuten</string>
   <string name="accessibility_time_picker_second">Sekunden</string>
   <string name="account">Account</string>
@@ -20,13 +20,13 @@
   <string name="action_menu_text_exit">Beenden</string>
   <string name="action_menu_text_history">Lesezeichen/Verlauf</string>
   <string name="action_menu_text_nightmode">Nachtmodus</string>
-  <string name="action_menu_text_nightmode_off">Nachtmodus</string>
-  <string name="action_menu_text_nightmode_on">Nachtmodus</string>
+  <string name="action_menu_text_nightmode_off">Nachtmodus aus</string>
+  <string name="action_menu_text_nightmode_on">Nachtmodus an</string>
   <string name="action_menu_text_setting">Einstellungen</string>
   <string name="action_menu_text_share">Teilen</string>
   <string name="actionbar_share">Teilen</string>
   <string name="actionbar_web_search">Web suche</string>
-  <string name="adblock_notification">%d ads blockiert</string>
+  <string name="adblock_notification">%d Ads blockiert</string>
   <string name="add_bookmark">Lesezeichen hinzufügen</string>
   <string name="add_bookmark_group">Gruppe hinzufügen</string>
   <string name="add_folder">Ordner hinzufügen</string>
@@ -198,7 +198,7 @@
   <string name="download_no_sdcard_dlg_title">Kein zugriff auf USB speicher</string>
   <string name="download_pending">Download gestartet…</string>
   <string name="download_phone_tip">Phone</string>
-  <string name="download_router_tip">Download to Mi Router</string>
+  <string name="download_router_tip">Mi router (Download to Mi router)</string>
   <string name="download_sdcard_busy_dlg_msg">The USB storage is busy. To allow downloads, touch Turn Off USB Storage in the notification.</string>
   <string name="download_sdcard_busy_dlg_title">Kein zugriff auf USB storage</string>
   <string name="downloaded">Download fertiggestellt</string>
@@ -369,7 +369,7 @@
   <string name="pref_autologin_title">Automatischer Google Log-In</string>
   <string name="pref_category_title_version">Version</string>
   <string name="pref_clear_adblock_statistics">Ad Blocker Verlauf löschen</string>
-  <string name="pref_clear_adblock_statistics_dlg">Gesamten Add Blocker Inhalt löschen?</string>
+  <string name="pref_clear_adblock_statistics_dlg">Gesamten Ad Blocker Verlauf löschen?</string>
   <string name="pref_clear_all_data_dlg">Alle oben gesammelten Daten löschen?</string>
   <string name="pref_clear_all_data_title">Alles Löschen</string>
   <string name="pref_clear_cache_for_exit">Cache bei verlassen löschen?</string>
@@ -419,7 +419,7 @@
   <string name="pref_development_trace">Enable tracing</string>
   <string name="pref_development_viewport">Use wide viewport</string>
   <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
-  <string name="pref_enable_adblock_notification">Add Blocker Benachrichtigung</string>
+  <string name="pref_enable_adblock_notification">Ad Blocker Benachrichtigung</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Schließe App mit dem letzten Tab</string>
   <string name="pref_extras_reset_default">Zurücksetzen</string>
   <string name="pref_extras_reset_default_dlg">Einstellungen auf Standart zurücksetzen?</string>
@@ -622,7 +622,7 @@
   <string name="set_as_homepage">Als Startseite einstellen</string>
   <string name="share_link">Link Teilen</string>
   <string name="share_page">Seite Teilen</string>
-  <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
+  <string name="share_page_text">"I'm enjoying 【%1$s】, share it with you! | %2$s"</string>
   <string name="sign_in_to" formatted="false">Einloggen in %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Speichern zum Offline lesen nicht möglich"</string>
   <string name="snapshot_go_live">Go live</string>

@@ -4,7 +4,7 @@
   <string name="alarm_alert">Standard Klingelton</string>
   <string name="alarm_alert_alert_silenced">Alarm stumm nach %d Minuten.</string>
   <string name="alarm_alert_snooze_set">Schlummern für %d Minuten.</string>
-  <string name="alarm_ascending_mode_summary">Alarmlautstärke steigt schrittweise</string>
+  <string name="alarm_ascending_mode_summary">Alarmlautstärke steigt schrittweise bis zum eingestellten Level</string>
   <string name="alarm_ascending_mode_title">Aufsteigende Lautstärke</string>
   <string name="alarm_disabled">Deaktiviert</string>
   <string name="alarm_in_silent_mode_title">Alarm im Silent-Modus</string>
