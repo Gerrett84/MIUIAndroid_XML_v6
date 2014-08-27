@@ -36,7 +36,7 @@
   <string name="album_share_subtitle_requesting">Getting album info…</string>
   <string name="album_share_title_new_album">Share new album</string>
   <string name="albums">Albums</string>
-  <string name="albumset_page_title_separator"> | </string>
+  <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Attention</string>
   <string name="alert_init_merged_message">"Now, photos on your device and photos you've stored in Mi Cloud will be displayed together."</string>
   <string name="alert_init_merged_title">All your photos. Together at last.</string>
@@ -491,7 +491,7 @@ albums from anywhere.
   <string name="cloudfolder_name_cannot_empty">Enter a folder name</string>
   <string name="cloudfolder_name_reserved">Folder name is reserved</string>
   <string name="comfirm_delete_current_album">Delete this album?</string>
-  <string name="comma">, </string>
+  <string name="comma">, </string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Delete %s photos?</string>
   <string name="confirm_delete_album" formatted="false">Delete %s albums (%s items total)?</string>
