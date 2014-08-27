@@ -98,7 +98,7 @@
   <string name="local_app_name">Wiederherstellen</string>
   <string name="local_backup_window_title">Lokale Sicherungsdaten</string>
   <string name="local_home_title">Lokale Sicherungen</string>
-  <string name="local_no_backup">No local backups</string>
+  <string name="local_no_backup">Keine Lokale Sicherung</string>
   <string name="local_restore_window_title">Lokale wiederherstellung</string>
   <string name="local_select_account_contact">Konten &amp;Kontakte</string>
   <string name="local_select_sysdata">System</string>
