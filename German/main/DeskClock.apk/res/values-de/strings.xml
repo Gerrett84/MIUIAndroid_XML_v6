@@ -4,7 +4,7 @@
   <string name="alarm_alert">Standard Klingelton</string>
   <string name="alarm_alert_alert_silenced">Alarm stumm nach %d Minuten.</string>
   <string name="alarm_alert_snooze_set">Schlummern für %d Minuten.</string>
-  <string name="alarm_ascending_mode_summary">Alarmlautstärke steigt schrittweise auf ausgewählten Pegel</string>
+  <string name="alarm_ascending_mode_summary">Alarmlautstärke steigt schrittweise</string>
   <string name="alarm_ascending_mode_title">Aufsteigende Lautstärke</string>
   <string name="alarm_disabled">Deaktiviert</string>
   <string name="alarm_in_silent_mode_title">Alarm im Silent-Modus</string>
@@ -82,7 +82,7 @@
   <string name="shutdown_alarm_enable_summary">Shutdown Alarm ist an</string>
   <string name="shutdown_alarm_title">Shutdown Alarm</string>
   <string name="silent_alarm_summary">Lautlos</string>
-  <string name="slider_text">hochschieben zum Schließen</string>
+  <string name="slider_text">Hochschieben zum Schließen</string>
   <string name="snooze_confirm_cancel">Schlummern abbrechen</string>
   <string name="snooze_duration_title">Schlummer Dauer</string>
   <string name="snooze_message">Schlummern für %d Min</string>
